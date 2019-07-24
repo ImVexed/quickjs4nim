@@ -1,5 +1,4 @@
 # Package
-
 version     = "0.0.1"
 author      = "ImVexed"
 description = "QuickJS wrapper for Nim"

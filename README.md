@@ -1,4 +1,4 @@
-# QuickJS.nim
+# QuickJS4nim
 A Nim wrapper for https://bellard.org/quickjs/
 
 ## Warnings
